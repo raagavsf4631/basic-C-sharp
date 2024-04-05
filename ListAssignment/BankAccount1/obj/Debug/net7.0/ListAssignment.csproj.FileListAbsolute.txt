@@ -1,0 +1,15 @@
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\bin\Debug\net7.0\ListAssignment.exe
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\bin\Debug\net7.0\ListAssignment.deps.json
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\bin\Debug\net7.0\ListAssignment.runtimeconfig.json
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\bin\Debug\net7.0\ListAssignment.dll
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\bin\Debug\net7.0\ListAssignment.pdb
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\obj\Debug\net7.0\ListAssignment.csproj.AssemblyReference.cache
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\obj\Debug\net7.0\ListAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\obj\Debug\net7.0\ListAssignment.AssemblyInfoInputs.cache
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\obj\Debug\net7.0\ListAssignment.AssemblyInfo.cs
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\obj\Debug\net7.0\ListAssignment.csproj.CoreCompileInputs.cache
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\obj\Debug\net7.0\ListAssignment.dll
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\obj\Debug\net7.0\refint\ListAssignment.dll
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\obj\Debug\net7.0\ListAssignment.pdb
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\obj\Debug\net7.0\ListAssignment.genruntimeconfig.cache
+C:\Users\RaagavanSubramani\OneDrive - Syncfusion\Desktop\Assignment\ListAssignment\BankAccount1\obj\Debug\net7.0\ref\ListAssignment.dll
